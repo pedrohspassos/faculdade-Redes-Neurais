@@ -34,5 +34,5 @@ Foi realizado:
 ## Autores
 
 - [@pedrohspassos](https://github.com/pedrohspassos)
-- [@victorKM](https://github.com/victorKM)
+
 
