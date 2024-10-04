@@ -8,6 +8,7 @@ Este repositório visa mostrar o trabalho final desenvolvido para a disciplina d
 
 Este projeto visa explorar o uso de redes neurais artificiais, especificamente Multi-Layer Perceptrons (MLP), para realizar a classificação de imagens baseada em características de textura. O objetivo principal é desenvolver um sistema capaz de identificar padrões específicos em imagens e categorizá-las corretamente em quatro grupos principais: Areia, Grama, Madeira e Pedra.
 
+Para ver mais sobre o projeto e os resultados obtidos, clique [aqui](https://docs.google.com/presentation/d/10ritR1Az2y9VjDaoxSQtTnwlKthC2_OMLmmvkmXC5e0/edit?usp=sharing) !
 
 
 ## Metodologia
